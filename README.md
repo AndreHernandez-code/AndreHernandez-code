@@ -4,7 +4,6 @@ Sou estudante de tecnologia com foco em **Java** e possuo experiência prática 
 
 **💻 Principais Conhecimentos:**
 *   **Linguagens & Frameworks:** Java, Spring Boot
-*   **Infraestrutura & Suporte:** Manutenção de hardware, redes (TCP/IP, DNS, DHCP) e administração de sistemas
 *   **Banco de Dados:** MySQL
 
 **🚀 O que estou fazendo agora:**
