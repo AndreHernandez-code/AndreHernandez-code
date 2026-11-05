@@ -3,8 +3,8 @@
 Sou estudante de tecnologia com foco em **Java** e possuo experiência prática em **suporte de TI**. Atualmente, dedico meu tempo aos estudos e à criação de projetos, buscando sempre resolver problemas através do código e fortalecer meu portfólio para novas oportunidades na área de desenvolvimento de software.
 
 **💻 Principais Conhecimentos:**
-*   **Linguagens & Frameworks:** Java, Spring Boot
-*   **Banco de Dados:** MySQL
+*   **Linguagens & Frameworks:** Java, Spring Boot, JS
+*   **Banco de Dados:** PostgreSQL
 
 **🚀 O que estou fazendo agora:**
 *   Estudando programação e criando projetos práticos do zero para transformar a teoria em realidade.
